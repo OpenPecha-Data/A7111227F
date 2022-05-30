@@ -1,0 +1,16 @@
+segment_sources:
+  I7CEFCE73:
+    type: origin_type
+    relation: translation
+    language: en
+  I6D480852:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0034592e54b44d1b885a2579ca6454c2:
+    I7CEFCE73: 21d29c941506404a8632a8efb852e066
+    I6D480852: 9e42fd17d139412a9a58d676b16c74d3
+  93ba59ad72844871b9a96b38b2ac274a:
+    I7CEFCE73: c1d7f7bab49d4b869bb716bc9ba684bd
+    I6D480852: 70a11b32faa1463a93fd8ba4b6cee5c4
